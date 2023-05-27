@@ -12,10 +12,6 @@ Computer vision fundamentals including simple neural networks
 
 Classification methods such as SVM and K-nearest neighbors
 
-Acknowledgements 
-More details about the dataset, including algorithms that have been tried on it and their levels of success, can be found at http://yann.lecun.com/exdb/mnist/index.html. The dataset is made available under a Creative Commons Attribution-Share Alike 3.0 license.
-
-
 Dataset Description
 The data files train.csv and test.csv contain gray-scale images of hand-drawn digits, from zero through nine.
 
